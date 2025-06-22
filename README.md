@@ -86,6 +86,12 @@ Ensure these are listed in your `requirements.txt`.
 
 ---
 
+## 📥 Download Dataset
+
+You can download the dataset directly from Kaggle:
+
+👉 [Click here to download the dataset on Kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
 ## 📖 License
 
 This project is intended for educational and personal use. Respect TMDb's API usage policies when deploying publicly.
