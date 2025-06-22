@@ -39,8 +39,8 @@ what-to-watch/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/what-to-watch.git
-cd what-to-watch
+git clone https://github.com/joyalkbiju/WhatToWatch-Movie-Recommendation-System.git
+cd WhatToWatch-Movie-Recommendation-System
 ```
 
 ### 2. Install Dependencies
