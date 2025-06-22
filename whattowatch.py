@@ -48,11 +48,11 @@ if st.button('Recommend Movies'):
         col1, spacer, col2 = st.columns([3, 0.5, 3])  
 
         with col1:
-            st.image(posters[i], use_column_width=True)
+            st.image(posters[i] )
             st.write(f"**{names[i]}**")
 
 
         with col2:
-            st.image(posters[i+1], use_column_width=True)
+            st.image(posters[i+1] )
             st.write(f"**{names[i+1]}**")
     
